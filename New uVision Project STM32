@@ -1,0 +1,8 @@
+1 New Project
+2 Create a new Folder and rename the folder
+3 Name the Project name
+4 Select STM32F407VGT (Discovery)  Keil µVision 5 is an IDE developed by ARM and is suitable for programming many of their microprocessors, in this case, the STM32F407VGT which is found on the STM32F4 Discovery education board. The Keil µVision 5 IDE allows you to write code for, program and debug the STM32F4 Discovery Board.
+5 Select STM32F4-Discovery in Board Support
+6 Select CMSCIS Core Checked
+7 Device Startup
+
